@@ -3,7 +3,7 @@
  * @Date: 2023-12-12 15:16:56
  * @LastEditors: Shawn
  * @LastEditTime: 2023-12-12 16:31:09
- * @FilePath: \periodic-table-css-master\periodic-table-css-master\src\PeriodicTable.js
+ * @FilePath: \try\src\PeriodicTable.js
  */
 import React from "react";
 import data from "./PeriodicTableJSON.json";
